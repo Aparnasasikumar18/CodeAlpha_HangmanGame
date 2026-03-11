@@ -1,4 +1,4 @@
-# 🐍 Hangman Game — CodeAlpha Internship Task
+# 🐍 Hangman Game 
 
 This is a console-based Hangman game created using Python as part of the **CodeAlpha Python Programming Internship**.
 
@@ -21,6 +21,6 @@ This is a console-based Hangman game created using Python as part of the **CodeA
 [Add your video link or LinkedIn post here]
 
 ## 📚 Author
-**Aparna Sasikumar** — Python Intern @ CodeAlpha
+Aparna Sasikumar
 
 
